@@ -3,6 +3,8 @@
 ## Papers
 
 ### 2023
+- <a name="todo"></a> Reinforced Disentanglement for Face Swapping without Skip Connection (**ICCV 2023**) [[paper](https://arxiv.org/abs/2307.07928)] 
+- <a name="todo"></a> BlendFace: Re-designing Identity Encoders for Face-Swapping (**ICCV 2023**) [[paper](https://arxiv.org/abs/2307.10854)] 
 - <a name="todo"></a> StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf)] 
 - <a name="todo"></a> Fine-Grained Face Swapping via Regional GAN Inversion (**CVPR 2023**) [[paper](https://arxiv.org/abs/2211.14068)] [[code](https://github.com/e4s2022/e4s)]
 - <a name="todo"></a> FlowFace: Semantic Flow-guided Shape-aware Face Swapping (**AAAI 2023**) [[paper](https://arxiv.org/pdf/2212.02797.pdf)]
